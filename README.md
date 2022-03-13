@@ -22,3 +22,9 @@
 | open9feet | - 9 feet apart <br> - Indoor space  |    0   |
 | wall9feet | - 3 feet apart <br> - Indoor wall in between  |    0   |
 | wall9feet | - 9 feet apart <br> - Indoor wall in between  |    0   |
+
+### Results:
+
+| Hidden layer size   | 2 Dense Layers      |
+|:---------------------:|:---------------------:|
+| Hidden layer size 128| ![](plots/accuracy_2denselayers_hiddenlayersize128.png) <br> ![](plots/loss_2denselayers_hiddenlayersize128.png)|
