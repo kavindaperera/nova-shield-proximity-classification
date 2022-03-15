@@ -12,8 +12,8 @@
 ### 4 different scenarios
 - [x] Data collection with Devices 3 feet apart in an indoor open space.
 - [x] Data collection with Devices 9 feet apart in an indoor open space.
-- [ ] Data collection with Devices 3 feet apart with an interior wall in between.
-- [ ] Data collection with Devices 9 feet apart with an interior wall in between.
+- [x] Data collection with Devices 3 feet apart with an interior wall in between.
+- [x] Data collection with Devices 9 feet apart with an interior wall in between.
 
 
 | Scenario  | Conditions                    | Target Classification |
@@ -25,6 +25,8 @@
 
 ### Results:
 
-| Hidden layer size   | 2 Dense Layers      |
-|:---------------------:|:---------------------:|
-| Hidden layer size 128| ![](plots/accuracy_2denselayers_hiddenlayersize128.png) <br> ![](plots/loss_2denselayers_hiddenlayersize128.png)|
+| Hidden layer size   | 1 Dense Layers      | model     |
+|:---------------------:|:---------------------:| :------:|
+| Hidden layer size 64| ![](plots/accuracy_1denselayers_hiddenlayersize64.png) <br> ![](plots/loss_1denselayers_hiddenlayersize64.png) | ![](visualkeras/1denselayers_hiddenlayersize64.png)|
+| Hidden layer size 128| ![](plots/accuracy_1denselayers_hiddenlayersize128.png) <br> ![](plots/loss_1denselayers_hiddenlayersize128.png) | ![](visualkeras/1denselayers_hiddenlayersize128.png)|
+
