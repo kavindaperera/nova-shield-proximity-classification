@@ -27,8 +27,8 @@
 
 | Hidden layer size   | 1 Dense Layers      | model     | model description     |
 |:---------------------:|:---------------------:| :------:|  :------:|
-| Hidden layer size 64| ![](plots/accuracy_1denselayers_hiddenlayersize64.png) <br> ![](plots/loss_1denselayers_hiddenlayersize64.png) | ![](visualkeras/1denselayers_hiddenlayersize64.png)|![](model_details/1denselayers_hiddenlayersize64.png)<br> ![](model_details/1denselayers_hiddenlayersize64_epoch.png)|
-| Hidden layer size 128| ![](plots/accuracy_1denselayers_hiddenlayersize128.png) <br> ![](plots/loss_1denselayers_hiddenlayersize128.png) | ![](visualkeras/1denselayers_hiddenlayersize128.png)|![](model_details/1denselayers_hiddenlayersize128.png) <br> ![](model_details/1denselayers_hiddenlayersize128_epoch.png)|
+| Hidden layer size 64| ![](plots/accuracy_1denselayers_hiddenlayersize64.png) <br> ![](plots/loss_1denselayers_hiddenlayersize64.png) | ![](visualkeras/1denselayers_hiddenlayersize64.png)|![](model_details/1denselayers_hiddenlayersize64.PNG)<br> ![](model_details/1denselayers_hiddenlayersize64_epoch.PNG)|
+| Hidden layer size 128| ![](plots/accuracy_1denselayers_hiddenlayersize128.png) <br> ![](plots/loss_1denselayers_hiddenlayersize128.png) | ![](visualkeras/1denselayers_hiddenlayersize128.png)|![](model_details/1denselayers_hiddenlayersize128.PNG) <br> ![](model_details/1denselayers_hiddenlayersize128_epoch.PNG)|
 
 
 
