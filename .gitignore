@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 Sample Model.ipynb
 kavinda.ipynb
+model_1_128.tflite
+model_1_64.tflite
